@@ -1,4 +1,4 @@
-
+|
 # **venkata mohan kumar jakkula**
 Jakkula4@gmail.com || +91-8106963788 || B.Tech (CSE) from NIT Warangal (2010-2014)
  |
@@ -9,7 +9,7 @@ Jakkula4@gmail.com || +91-8106963788 || B.Tech (CSE) from NIT Warangal (2010-201
 
 # Experience
 
-
+|
 ### 2022, September – present
 **Lead Platform engineer, Paysafe Group India (acquired by Milestone in June 2022), Hyderabad**
 - Leading a development team of 5 members.
