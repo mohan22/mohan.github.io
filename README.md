@@ -1,15 +1,14 @@
-|
+
 # **venkata mohan kumar jakkula**
 Jakkula4@gmail.com || +91-8106963788 || B.Tech (CSE) from NIT Warangal (2010-2014)
- |
-| --- |
+
 
 #
 
 
 # Experience
 
-|
+
 ### 2022, September – present
 **Lead Platform engineer, Paysafe Group India (acquired by Milestone in June 2022), Hyderabad**
 - Leading a development team of 5 members.
@@ -64,5 +63,4 @@ Jakkula4@gmail.com || +91-8106963788 || B.Tech (CSE) from NIT Warangal (2010-201
 - Developed a native iOS app for video streaming for home security application using XCode IDE and Objective-C
 _Navigation module for Configuration Software for Fire Safety systems._
 - Design and developed of navigation module for fire safety system configuration software using C#.NET and WPF
- |
-| --- |
+
